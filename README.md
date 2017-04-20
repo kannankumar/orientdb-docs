@@ -1,3 +1,6 @@
+**THIS BRANCH IS DEPRECATED.  PLEASE SEE: http://orientdb.com/docs/last/**
+
+
 # OrientDB Manual - version {{book.currentVersion}}
 
 ![image](https://orientdb.com/wp-content/themes/orientdb/img/logo-black.png)
