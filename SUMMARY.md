@@ -334,6 +334,7 @@
       * [Defining Database Schema](java/Java-Schema-Api.md)
         * [Classes](java/Document-API-Class.md)
         * [Property](java/Document-API-Property.md)
+<<<<<<< HEAD
     * [Reference](java/ref/README.md)
       * [OClass](java/ref/OClass.md)
         * [addCluster()](java/ref/OClass/addCluster.md)
@@ -595,7 +596,7 @@
         * [addEdge()](java/ref/OVertex/addEdge.md)
         * [getEdges()](java/ref/OVertex/getEdges.md)
         * [getVertices()](java/ref/OVertex/getVertices.md)
-    * [TinkerPop 2.6 Graph API](java/Graph-Database-Tinkerpop.md)
+    * [Apache TinkerPop 2.6 (legacy)](java/Graph-Database-Tinkerpop.md)
       * [Tutorial](java/Tutorial-Java.md)
       * [Vertices and Edges](java/Graph-VE.md)
       * [Blueprints Extension](java/Graph-Blueprints.md)
