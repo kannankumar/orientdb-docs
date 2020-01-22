@@ -334,7 +334,6 @@
       * [Defining Database Schema](java/Java-Schema-Api.md)
         * [Classes](java/Document-API-Class.md)
         * [Property](java/Document-API-Property.md)
-<<<<<<< HEAD
     * [Reference](java/ref/README.md)
       * [OClass](java/ref/OClass.md)
         * [addCluster()](java/ref/OClass/addCluster.md)
